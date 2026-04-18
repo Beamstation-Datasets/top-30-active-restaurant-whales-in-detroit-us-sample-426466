@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c1253fdc-c706-4d2d-8379-3d5150d95279",
+  "export_job_id": "309881d6-eedf-4348-86ce-5fc578f05267",
   "id_short": 426466,
-  "published_at": "2026-04-12T07:52:56Z",
+  "published_at": "2026-04-18T19:06:53Z",
   "repo_name": "top-30-active-restaurant-whales-in-detroit-us-sample-426466",
   "sample_asset_name": "beamstation_426466_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/426466/beamstation_426466_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 47,
-  "sample_sha256": "6521cb326540781cfe5dc2f498d3e3dbe18773d03e72e6d8d8b883ca6bb0cdaa",
-  "sample_size_bytes": 192278,
-  "total_records": 477
+  "sample_records": 51,
+  "sample_sha256": "da0c12cb1471ca7939f3afedb432496aad0e5955963956185f94f99d7f9696f9",
+  "sample_size_bytes": 214005,
+  "total_records": 510
 }
