@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Detroit, US
 
-> Free BeamStation sample export with 41 rows and masked direct-contact fields.
+> Free BeamStation sample export with 11 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `426466` |
 | Location | Detroit |
 | Category | Restaurants |
-| Full dataset size | 416 records |
-| Free sample size | 41 records (9.86%) |
-| Last export | 2026-04-22T02:26:33.806844+00:00 |
+| Full dataset size | 115 records |
+| Free sample size | 11 records (9.57%) |
+| Last export | 2026-04-29T05:28:35.315970+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-detroit-us-sample-426466/releases/download/sample-latest/beamstation_426466_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
